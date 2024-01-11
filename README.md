@@ -31,7 +31,8 @@ This project serves as the backend for a hypothetical social media app, managing
 - Clone the repository.
 - Start the application using Maven or your preferred IDE.
 - The application will run on localhost:8080.
-- Usage
+
+## Usage
 - Register a new account using POST localhost:8080/register.
 - Log in with your account via POST localhost:8080/login.
 - Create, retrieve, update, or delete messages as needed.
@@ -41,4 +42,4 @@ This project serves as the backend for a hypothetical social media app, managing
 Caitlyn Nguyen
 
 ## License
-This project is licensed under Revature.
+Revature
